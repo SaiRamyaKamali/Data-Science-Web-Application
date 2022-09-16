@@ -1,0 +1,1 @@
+Built an interactive data science web application using streamlit. Extracted the required data from the website using web scraping. Deployed the application using Heroku. Here is the link to my project https://datavisualisationapp.herokuapp.com/
